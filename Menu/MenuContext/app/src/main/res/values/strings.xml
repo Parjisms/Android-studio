@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuContext</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">上下文菜单!</string>
+    <string name="newf">新建</string>
+    <string name="open">打开</string>
+
+
+
+</resources>
